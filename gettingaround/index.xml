@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gettingarounds on Liisa ∞ Thomas</title>
+    <link>https://liisathomas.github.io/gettingaround/</link>
+    <description>Recent content in Gettingarounds on Liisa ∞ Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://liisathomas.github.io/gettingaround/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Around</title>
+      <link>https://liisathomas.github.io/gettingaround/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liisathomas.github.io/gettingaround/</guid>
+      <description>General info In Tallinn everything is easy to reach by public transport (buses, trolleys, trams), taxi or ridesharing apps. A tram (line no. 4) is also a good option to get from the airport to the city centre.
+The public transport network operates broadly from 6:00 to 23:00 daily (some lines until 24:00, see here). You do not have to show anything to the driver upon entry to the vehicle, but you should validate your pre-purchased ticket at an orange validator, located near the entrance.</description>
+    </item>
+    
+  </channel>
+</rss>

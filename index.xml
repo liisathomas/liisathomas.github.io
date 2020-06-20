@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liisa ∞ Thomas</title>
+    <link>https://liisathomas.github.io/</link>
+    <description>Recent content on Liisa ∞ Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://liisathomas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accommodation</title>
+      <link>https://liisathomas.github.io/accommodation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liisathomas.github.io/accommodation/</guid>
+      <description>The best areas to stay in Tallinn are probably Kalamaja (closest to us!), Kadriorg, the city centre (Kesklinn) and Old Town (Vanalinn). The latter is probably the costliest of the four.
+You can book a hotel for example here. We ourselves have had good experiences with Airbnb which offers a good selection of rental apartments for less money.</description>
+    </item>
+    
+    <item>
+      <title>Corona</title>
+      <link>https://liisathomas.github.io/corona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liisathomas.github.io/corona/</guid>
+      <description>The situation regarding the coronavirus is currently under control in Estonia. Since April there have only been single days with more than 10 positive cases detected despite comparatively frequent testing (see here). Most of the restrictions have been lifted by now and events and gatherings are allowed to take place. Of course, we continue to monitor the situation and will update the information here regularly. We also hope that by early August rapid coronavirus tests will be available for everyone to use either here or before travelling.</description>
+    </item>
+    
+    <item>
+      <title>Festivity</title>
+      <link>https://liisathomas.github.io/festivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liisathomas.github.io/festivity/</guid>
+      <description>Main celebration We will get married on 6 August with our families present and would love to celebrate with all of you on Saturday, 8 August. The festivity starts at 4 o’clock in the afternoon in BOTIK baar, which is located in an old rubber boots production complex. You can find the place in the Kopli quarter in the Northeast of Tallinn. It is easy to reach by public transport or taxi (see Getting Around).</description>
+    </item>
+    
+    <item>
+      <title>Getting Around</title>
+      <link>https://liisathomas.github.io/gettingaround/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liisathomas.github.io/gettingaround/</guid>
+      <description>General info In Tallinn everything is easy to reach by public transport (buses, trolleys, trams), taxi or ridesharing apps. A tram (line no. 4) is also a good option to get from the airport to the city centre.
+The public transport network operates broadly from 6:00 to 23:00 daily (some lines until 24:00, see here). You do not have to show anything to the driver upon entry to the vehicle, but you should validate your pre-purchased ticket at an orange validator, located near the entrance.</description>
+    </item>
+    
+  </channel>
+</rss>

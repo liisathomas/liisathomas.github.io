@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://liisathomas.github.io/accommodation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://liisathomas.github.io/accommodation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liisathomas.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liisathomas.github.io/corona/</loc>
+  </url>
+  
+  <url>
+    <loc>https://liisathomas.github.io/corona/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liisathomas.github.io/festivity/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liisathomas.github.io/festivity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://liisathomas.github.io/gettingaround/</loc>
+  </url>
+  
+  <url>
+    <loc>https://liisathomas.github.io/gettingaround/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liisathomas.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liisathomas.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

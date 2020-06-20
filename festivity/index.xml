@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Festivities on Liisa ∞ Thomas</title>
+    <link>https://liisathomas.github.io/festivity/</link>
+    <description>Recent content in Festivities on Liisa ∞ Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://liisathomas.github.io/festivity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Festivity</title>
+      <link>https://liisathomas.github.io/festivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liisathomas.github.io/festivity/</guid>
+      <description>Main celebration We will get married on 6 August with our families present and would love to celebrate with all of you on Saturday, 8 August. The festivity starts at 4 o’clock in the afternoon in BOTIK baar, which is located in an old rubber boots production complex. You can find the place in the Kopli quarter in the Northeast of Tallinn. It is easy to reach by public transport or taxi (see Getting Around).</description>
+    </item>
+    
+  </channel>
+</rss>
